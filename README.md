@@ -1,6 +1,6 @@
 #!/bin/bash 
 
-echo "welcome Tanmay"
+echo "welcome Tanmay Sagvekar"
 
 sleep 5;
 
